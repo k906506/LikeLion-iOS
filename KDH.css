@@ -19,3 +19,24 @@ body {}
     align-items: center;
     scroll-snap-align: center;
 }
+
+.first {
+    text-align: center;
+}
+
+.profile_img {
+    width: 400px;
+    height: 500px;
+    border-radius: 8%;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+.profile_link {
+    width: 48px;
+    height: 48px;
+    margin-top: 32px;
+    margin-bottom: 32px;
+    margin-left: 16px;
+    margin-right: 16px;
+}
