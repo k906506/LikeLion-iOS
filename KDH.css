@@ -1,4 +1,7 @@
-body {}
+body {
+    margin-left: 8%;
+    margin-right: 8%;
+}
 
 ::-webkit-scrollbar {
     display: none;
@@ -20,7 +23,7 @@ body {}
     scroll-snap-align: center;
 }
 
-.first {
+.intro {
     text-align: center;
 }
 
