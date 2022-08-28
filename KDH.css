@@ -23,6 +23,20 @@ body {
     scroll-snap-align: center;
 }
 
+.left {
+    width: 45%;
+    float: left;
+    flex: 1;
+    overflow: auto;
+}
+
+.right {
+    width: 50%;
+    float: right;
+    flex: 1;
+    overflow: auto;
+}
+
 .intro {
     text-align: center;
 }
