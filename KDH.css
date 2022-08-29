@@ -1,3 +1,16 @@
+@keyframes cursor {
+    50% {
+        border-color: transparent;
+    }
+}
+
+.title {
+    display: table-cell;
+    vertical-align: middle;
+    border-right: 2px solid black;
+    animation: cursor 0.2s ease infinite;
+}
+
 body {
     margin-left: 8%;
     margin-right: 8%;
